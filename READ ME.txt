@@ -1,0 +1,34 @@
+Stream Booster
+
+Stream Booster is a VST3 plugin, a small software that modifies audio.
+This plugin improves the sound of your audio sources, whether its your voice, music or video game.
+Technically, this plugin adds a limiters, gain, equalizers and compressors to make the sound better, cleaner and louder. 
+
+The plugin has two parts, the upper part is best used for music and video games. 
+The lower part is best for microphone and voice. 
+
+This plugin is in beta so it will be improved over time!
+
+Thanks!
+
+How to set up
+
+1. Copy and paste the .dll file to the following folder:
+
+C:\Program Files\Steinberg\VstPlugins
+
+2. Open OBS, go to Audio Mixer tab, right click the desired audio source and clic on Effects. 
+
+3. Click on the + icon in the lower left corner. Select "VST2.x plugin." Give any name.
+
+4. Look for Streamer booster in the dropdown menu.
+
+5. Click on Open Plug-In Interface. 
+
+6. Adjust the audio settings with the knobs
+
+
+
+
+
+
